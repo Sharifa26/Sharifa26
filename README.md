@@ -2,7 +2,7 @@
 
 ![version :0.0.1](https://img.shields.io/github/v/release/Sharifa26/Sharifa?style=for-the-badge) &nbsp;
 ![visitors](https://api.visitorbadge.io/api/visitors?path=Sharifa26&countColor=%23697689&style=for-the-badge) &nbsp;
-[![GitHub GregSithole](https://img.shields.io/github/followers/Sharifa26?label=follow&style=for-the-badge)](https://github.com/Sharifa26) &nbsp;
+[![GitHub Sharifa26](https://img.shields.io/github/followers/Sharifa26?label=follow&style=for-the-badge)](https://github.com/Sharifa26) &nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
