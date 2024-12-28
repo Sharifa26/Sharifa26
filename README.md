@@ -6,11 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💻 I’m currently a searching job.
+- 💻 I’m currently searching job.
 - 🌱 I’m currently learning/going through [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 - 👯 I’m looking to collaborate on any Javascript, HTML, CSS projects
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love all Kdramas
 
 ---
 
