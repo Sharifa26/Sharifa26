@@ -10,7 +10,7 @@
 
 ## 🌱 Currently Exploring
 - 🛠️ **LLD AND HLD**  
-- 🔐 **API Security & Authentication**  
+- 🔐 **RAG and Emdedding**  
 
 ---
 
